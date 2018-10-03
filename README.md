@@ -1,3 +1,3 @@
-# Professional Website of Ryan Cory-Wright
+# Professional Website of Peter Cohen
 
-[https://ryancorywright.github.io/](https://ryancorywright.github.io/)
+[https://peterlcohen.github.io/](https://peterlcohen.github.io/)
